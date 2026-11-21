@@ -61,28 +61,21 @@ DIVIDE(SUM('Sheet1'[furnished]), COUNTA('Sheet1'[cid])) * 100
 ### 1. Power BI Desktop – Main Report
 `images/01-powerbi-desktop-report.jpg`
 
-![Main report](images/01-powerbi-desktop-report.jpg)
 
 The full report page: KPI cards, revenue and volume trend by month, price map by city, price by quality and condition, bedroom/furnished distribution, and the Key Influencers visual. Shows that properties with more than 4 bedrooms are the strongest driver of higher price.
 
 ### 2. Dashboard Q&A – Top Cities by % Furnished
 `images/02-dashboard-qna-top-cities-furnished.jpg`
 
-![Q&A](images/02-dashboard-qna-top-cities-furnished.jpg)
-
 Natural-language query *"top cities by percentage properties furnished"* in Power BI Service. Mercer Island leads (about 61% furnished), followed by Issaquah, Redmond, Bellevue and Woodinville.
 
 ### 3. Quick Insights
 `images/03-quick-insights.jpg`
 
-![Quick Insights](images/03-quick-insights.jpg)
-
 Auto-generated insights from the semantic model: Seattle has noticeably higher quality counts, an outlier in furnished % for zip code 98039, and a strong correlation between condition and living area.
 
 ### 4. Dashboard – Mobile Layout
 `images/04-dashboard-mobile-layout.jpg`
-
-![Mobile layout](images/04-dashboard-mobile-layout.jpg)
 
 Phone-optimised version of the dashboard with KPI tiles, average price by quality/condition and % furnished by city, so managers can check key numbers on the go.
 
